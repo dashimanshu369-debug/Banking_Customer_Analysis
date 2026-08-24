@@ -9,9 +9,12 @@ This project analyzes a synthetic banking dataset of **3,000 clients** to unders
 
 1. **Data Cleaning & Exploration** — performed in Python (Pandas, Seaborn, Matplotlib) inside a Jupyter/Colab notebook.
 2. **Business Intelligence Reporting** — built as an interactive Power BI (`.pbix`) dashboard for stakeholder-facing insights.
+
 https://github.com/dashimanshu369-debug/Banking_Customer_Analysis/blob/36accd09b5d29a48e42abc72ac4f8779b1acb89d/1787142952458.jpg
 
 https://github.com/dashimanshu369-debug/Banking_Customer_Analysis/blob/f26de14dc3d750de51bd6c933439eb7223a40dd5/Screenshot%202026-08-19%20172309.png
+
+https://github.com/dashimanshu369-debug/Banking_Customer_Analysis/blob/cada6a2cd092e85a99a8c8e292c807ca679cc870/Screenshot%202026-08-19%20172442.png
 
 
 ---
