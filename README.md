@@ -16,9 +16,9 @@ https://github.com/dashimanshu369-debug/Banking_Customer_Analysis/blob/f26de14dc
 
 https://github.com/dashimanshu369-debug/Banking_Customer_Analysis/blob/cada6a2cd092e85a99a8c8e292c807ca679cc870/Screenshot%202026-08-19%20172442.png
 
+https://github.com/dashimanshu369-debug/Banking_Customer_Analysis/blob/334e7a5e2d93b58835962708501a2f4ca95f1f26/Screenshot%202026-08-19%20172505.png
 
 ---
-
 
 ## 📊 Dataset
 
